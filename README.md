@@ -14,6 +14,9 @@ https://h4ck.co/oscp-journey-exam-lab-prep-tips/
 WILL CHATHAM HAS A <u>TON</u> OF GOOD ADVICE:<br>
 https://www.willchatham.com/category/security/oscp/
 
+PENETRATION TESTING TOOLS CHEAT SHEET (by Arr0way):<br> 
+https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
+
 GOOD ADVICE FROM ALIENVAULT BLOG (by Blade Soriano)<br>
 https://www.alienvault.com/blogs/security-essentials/how-to-prepare-to-take-the-oscp
 
