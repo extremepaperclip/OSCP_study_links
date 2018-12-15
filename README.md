@@ -27,12 +27,9 @@ GREAT ADVICE (and straight to the point - I love that!) FROM UNFO:<br>
 https://gist.github.com/unfo/5ddc85671dcf39f877aaf5dce105fac3
 
 
-
-
 <br>
 <br>
 <br>
-
 
 <b><u>EXPLOITS - DOING IT MANUALLY (WITHOUT METASPLOIT):</u></b>
 
@@ -47,6 +44,16 @@ https://www.reddit.com/r/oscp/comments/948jel/exploitation_without_metasploit/
 
 <br>
 <br>
+
+<b><u>REPORTING TIPS:</u></b><br>
+
+EXTENSIVE LIST OF PUBLICLY AVAILABLE PENTEST REPORT EXAMPLES (via juliocesarfort):<br>
+https://github.com/juliocesarfort/public-pentesting-reports
+
+<br>
+<br>
+<br>
+
 ...coming soon
 <br>
 <br>
@@ -56,4 +63,4 @@ https://www.reddit.com/r/oscp/comments/948jel/exploitation_without_metasploit/
 <b><u>SQL INJECTION TIPS - DOING IT MANUALLY (WITHOUT SQLMAP):</u></b><br>
 <br>
 <br>
-<b><u>REPORTING TIPS:</u></b><br>
+
