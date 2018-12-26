@@ -49,17 +49,16 @@ https://www.reddit.com/r/oscp/comments/948jel/exploitation_without_metasploit/
 
 EXTENSIVE LIST OF PUBLICLY AVAILABLE PENTEST REPORT EXAMPLES (via juliocesarfort):<br>
 https://github.com/juliocesarfort/public-pentesting-reports
-
 <br>
-<br>
-<br>
-
-...coming soon
 <br>
 <br>
 <b><u>ENUMERATING TIPS:</u></b><br>
 <br>
+SMB ENUMERATION CHECKLIST (via 0xdf)<br>
+https://0xdf.gitlab.io/2018/12/02/pwk-notes-smb-enumeration-checklist-update1.html<br>
 <br>
+<br>
+...coming soon<br>
 <b><u>SQL INJECTION TIPS - DOING IT MANUALLY (WITHOUT SQLMAP):</u></b><br>
 <br>
 <br>
