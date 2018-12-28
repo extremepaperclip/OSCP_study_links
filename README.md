@@ -26,6 +26,8 @@ https://www.alienvault.com/blogs/security-essentials/how-to-prepare-to-take-the-
 GREAT ADVICE (and straight to the point - I love that!) FROM UNFO:<br>
 https://gist.github.com/unfo/5ddc85671dcf39f877aaf5dce105fac3
 
+THIS ARTICLE IS FULL OF GEMS - WONDERFUL OSCP ADVICE (via Alex Dib):<br>
+https://scund00r.com/all/oscp/2018/02/25/passing-oscp.html
 
 <br>
 <br>
