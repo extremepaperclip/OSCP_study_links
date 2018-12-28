@@ -29,6 +29,9 @@ https://gist.github.com/unfo/5ddc85671dcf39f877aaf5dce105fac3
 THIS ARTICLE IS FULL OF GEMS - WONDERFUL OSCP ADVICE (via Alex Dib):<br>
 https://scund00r.com/all/oscp/2018/02/25/passing-oscp.html
 
+SECLIST - PENTESTERS COMPANION (This project is maintained by Daniel Miessler and Jason Haddix):<br>
+https://github.com/danielmiessler/SecLists
+
 <br>
 <br>
 <br>
