@@ -11,6 +11,9 @@ A list of useful articles for those studying for the OSCP
 THIS GUIDE MADE MY JAW DROP TO THE FLOOR - SO MANY OSCP GOODIES (via RustyShackleford221)<br>
 https://github.com/RustyShackleford221/OSCP-Prep
 
+TREASURE TROVE OF GREAT INFO (both OSCP and general pentesting from trumstray):<br>
+https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md
+
 VERRRY VERY USEFUL TIPS HERE FROM m0nk3h:<br>
 https://h4ck.co/oscp-journey-exam-lab-prep-tips/
 
