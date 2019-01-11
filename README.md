@@ -8,7 +8,10 @@ A list of useful articles for those studying for the OSCP
 
 <b><u>GENERAL OSCP ADVICE:</u></b>
 
-(Start here!) VERRRY VERY USEFUL TIPS HERE FROM m0nk3h:<br>
+THIS GUIDE MADE MY JAW DROP TO THE FLOOR - SO MANY OSCP GOODIES (via RustyShackleford221)<br>
+https://github.com/RustyShackleford221/OSCP-Prep
+
+VERRRY VERY USEFUL TIPS HERE FROM m0nk3h:<br>
 https://h4ck.co/oscp-journey-exam-lab-prep-tips/
 
 WILL CHATHAM HAS A <u>TON</u> OF GOOD ADVICE:<br>
