@@ -4,8 +4,6 @@ A list of useful articles for those studying for the OSCP
 <i>[Note: This is a work in-progress...]</i>
 
 <br>
-<br>
-
 <b><u>GENERAL OSCP ADVICE:</u></b>
 
 THIS GUIDE MADE MY JAW DROP TO THE FLOOR - SO MANY OSCP GOODIES (via RustyShackleford221)<br>
@@ -40,7 +38,7 @@ https://github.com/danielmiessler/SecLists
 
 <br>
 <b><u>ENUMERATING:</u></b>
-<br>
+<br><br>
 THESE LISTS FOR LINUX and WINDOWS ENUMERATION ARE GREAT! (via xapax):<br>
 [ LINUX ]<br>
 https://github.com/xapax/oscp/blob/master/templates/linux-template.md<br>
