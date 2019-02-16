@@ -39,8 +39,7 @@ SECLIST - PENTESTERS COMPANION (This project is maintained by Daniel Miessler an
 https://github.com/danielmiessler/SecLists
 
 <br>
-<br>
-ENUMERATING:
+<b><u>ENUMERATING:</u></b>
 
 THESE LISTS FOR LINUX and WINDOWS ENUMERATION ARE GREAT! (via xapax):<br>
 [ LINUX ]<br>
