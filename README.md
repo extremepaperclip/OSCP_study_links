@@ -49,7 +49,7 @@ https://github.com/xapax/oscp/blob/master/templates/windows-template.md<br>
 SMB ENUMERATION CHECKLIST (via 0xdf)<br>
 https://0xdf.gitlab.io/2018/12/02/pwk-notes-smb-enumeration-checklist-update1.html<br>
 <br>
-
+<br>
 
 <b><u>EXPLOITS - DOING IT MANUALLY (WITHOUT METASPLOIT):</u></b>
 
