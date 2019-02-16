@@ -40,7 +40,7 @@ https://github.com/danielmiessler/SecLists
 
 <br>
 <b><u>ENUMERATING:</u></b>
-
+<br>
 THESE LISTS FOR LINUX and WINDOWS ENUMERATION ARE GREAT! (via xapax):<br>
 [ LINUX ]<br>
 https://github.com/xapax/oscp/blob/master/templates/linux-template.md<br>
