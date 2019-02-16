@@ -51,6 +51,9 @@ https://github.com/xapax/oscp/blob/master/templates/windows-template.md<br>
 
 <b><u>EXPLOITS - DOING IT MANUALLY (WITHOUT METASPLOIT):</u></b>
 
+SOOOOOOO many resources for hacking here!!:<br>
+https://github.com/vitalysim/Awesome-Hacking-Resources
+
 A Guide to Hacking Without Metasploit – Luke Stephens (@hakluke) – Medium<br>
 https://medium.com/@hakluke/haklukes-guide-to-hacking-without-metasploit-1bbbe3d14f90
  
@@ -60,8 +63,7 @@ https://www.reddit.com/r/oscp/comments/93w5o2/haklukes_guide_to_hacking_without_
 REDDIT discussion "exploitation without metasploit"<br>
 https://www.reddit.com/r/oscp/comments/948jel/exploitation_without_metasploit/
 
-WOW! SOOOOOOO many resources for hacking here!!:<br>
-https://github.com/vitalysim/Awesome-Hacking-Resources
+
 <br>
 <br>
 
