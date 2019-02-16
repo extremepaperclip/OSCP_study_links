@@ -46,6 +46,10 @@ https://github.com/xapax/oscp/blob/master/templates/linux-template.md<br>
 https://github.com/xapax/oscp/blob/master/templates/windows-template.md<br>
 
 <br>
+SMB ENUMERATION CHECKLIST (via 0xdf)<br>
+https://0xdf.gitlab.io/2018/12/02/pwk-notes-smb-enumeration-checklist-update1.html<br>
+<br>
+
 
 <b><u>EXPLOITS - DOING IT MANUALLY (WITHOUT METASPLOIT):</u></b>
 
@@ -72,12 +76,7 @@ https://github.com/juliocesarfort/public-pentesting-reports
 <br>
 <br>
 <br>
-<b><u>ENUMERATING TIPS:</u></b><br>
-<br>
-SMB ENUMERATION CHECKLIST (via 0xdf)<br>
-https://0xdf.gitlab.io/2018/12/02/pwk-notes-smb-enumeration-checklist-update1.html<br>
-<br>
-<br>
+
 ...coming soon<br>
 <b><u>SQL INJECTION TIPS - DOING IT MANUALLY (WITHOUT SQLMAP):</u></b><br>
 <br>
