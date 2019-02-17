@@ -65,6 +65,8 @@ https://www.reddit.com/r/oscp/comments/93w5o2/haklukes_guide_to_hacking_without_
 REDDIT discussion "exploitation without metasploit"<br>
 https://www.reddit.com/r/oscp/comments/948jel/exploitation_without_metasploit/
 
+PAYLOAD ALL THE THINGS!! (via swisskyrepo):
+https://github.com/swisskyrepo/PayloadsAllTheThings<br>
 
 <br>
 <br>
@@ -73,6 +75,9 @@ https://www.reddit.com/r/oscp/comments/948jel/exploitation_without_metasploit/
 
 EXTENSIVE LIST OF PUBLICLY AVAILABLE PENTEST REPORT EXAMPLES (via juliocesarfort):<br>
 https://github.com/juliocesarfort/public-pentesting-reports
+
+WHAT TO INCLUDE IN A PENETRATION TESTING REPORT (via Mitra94):
+https://www.cybrary.it/0p3n/penetration-testing-report/<br>
 <br>
 <br>
 <br>
