@@ -76,7 +76,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings<br>
 EXTENSIVE LIST OF PUBLICLY AVAILABLE PENTEST REPORT EXAMPLES (via juliocesarfort):<br>
 https://github.com/juliocesarfort/public-pentesting-reports
 
-WHAT TO INCLUDE IN A PENETRATION TESTING REPORT (via Mitra94):
+WHAT TO INCLUDE IN A PENETRATION TESTING REPORT (via Mitra94):<br>
 https://www.cybrary.it/0p3n/penetration-testing-report/<br>
 <br>
 <br>
